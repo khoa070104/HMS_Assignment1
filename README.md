@@ -1,5 +1,10 @@
 # KhoaNA - PRN212 - Assignment 1 <br>
 ## Version: Don't Use Database
+
+### Account Testing: <br>
++ Admin - Username: admin@FUMiniHotelSystem.com / Password: @@abc123@@ (Cofig in appsettings.json) <br>
++ User - Username: john.doe@example.com / Password: password123 (Config in CustomerDAO.cs)
+
 ### Feature: <br>
 <ol>
   <li>Admin Management: CRUD Customer</li>
@@ -10,6 +15,4 @@
   <li>Customer Management: Edit Profile</li>
   <li>Customer Management: View History Room Booking</li>
 </ol> <br>
-### Account Testing: <br>
-+ Admin - Username: admin@FUMiniHotelSystem.com / Password: @@abc123@@ (Cofig in appsettings.json) <br>
-+ User - Username: john.doe@example.com / Password: password123 (Config in CustomerDAO.cs)
+
